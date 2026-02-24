@@ -1,3 +1,5 @@
+<img width="1898" height="790" alt="Screenshot 2026-02-24 122224" src="https://github.com/user-attachments/assets/a69ee85c-3511-49d2-ba08-41a13dfaf96a" />
+
 # AmbitionBox-Webscraping-Cleaning-EDA-
 
 Project Title: End-to-End Data Web Scraping & Exploratory Analysis
@@ -18,7 +20,7 @@ c. Exploratory Data Analysis (EDA):
 2. Generated descriptive statistics and visualisations (histograms, scatter plots, box plots) to understand feature distributions and correlations.
 3. Extracted high-level insights, such as identifying market outliers or detecting seasonal trends, to support data-driven decision-making.
 
-<img width="1898" height="790" alt="Screenshot 2026-02-24 122224" src="https://github.com/user-attachments/assets/a69ee85c-3511-49d2-ba08-41a13dfaf96a" />
+
 <img width="1525" height="769" alt="Screenshot 2026-02-24 122237" src="https://github.com/user-attachments/assets/a021e54c-ce63-4bbe-b3f8-5e940f02a79f" />
 <img width="1907" height="881" alt="Screenshot 2026-02-24 122255" src="https://github.com/user-attachments/assets/f88e6a67-408f-4768-923f-e499db118a2c" />
 <img width="1856" height="781" alt="Screenshot 2026-02-24 122306" src="https://github.com/user-attachments/assets/9b760088-5dba-47e3-a8f5-1a4064abb2c0" />
