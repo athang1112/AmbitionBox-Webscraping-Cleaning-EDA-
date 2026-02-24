@@ -17,3 +17,6 @@ c. Exploratory Data Analysis (EDA):
 1. Conducted a comprehensive EDA to uncover hidden patterns and trends within the dataset.
 2. Generated descriptive statistics and visualisations (histograms, scatter plots, box plots) to understand feature distributions and correlations.
 3. Extracted high-level insights, such as identifying market outliers or detecting seasonal trends, to support data-driven decision-making.
+
+<img width="1898" height="790" alt="Screenshot 2026-02-24 122224" src="https://github.com/user-attachments/assets/a69ee85c-3511-49d2-ba08-41a13dfaf96a" />
+
